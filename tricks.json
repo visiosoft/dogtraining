@@ -109,7 +109,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "11",
         "title": "3 EASY STEPS:  ",
@@ -120,7 +120,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "12",
         "title": "Important basic trick in dog ",
@@ -131,7 +131,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "13",
         "title": " How to Train ",
@@ -142,7 +142,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "14",
         "title": "TEACH YOUR DOG TO SHAKE  ",
@@ -153,7 +153,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "15",
         "title": " How to teach your dog ",
@@ -164,7 +164,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "16",
         "title": "Easy Dog Tricks ",
@@ -175,7 +175,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "17",
         "title": "Dog training ",
@@ -186,7 +186,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "18",
         "title": " Going going gone! ",
@@ -197,7 +197,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "19",
         "title": "One of the BEST exercises  ",
@@ -208,7 +208,7 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "20",
         "title": "How do you train a dog ",
@@ -219,40 +219,40 @@
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "21",
-        "title": " ",
-        "description": "",
+        "title": " Puppy Training ",
+        "description": "Puppy Training | German Shepherd Dog | Puppy",
         "videoUrl": "https://raw.githubusercontent.com/visiosoft/dogtraining/main/21.mp4",
-        "thumbnailUrl": "https://i.ytimg.com/vi//hq720_2.jpg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b-a3oCanVQQ/hq720_2.jpg",
         "duration": 185,
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "22",
-        "title": " ",
-        "description": "",
+        "title": "How to teach your dog to walk with you ",
+        "description": "How to teach your dog to walk with you even when off leash",
         "videoUrl": "https://raw.githubusercontent.com/visiosoft/dogtraining/main/22.mp4",
-        "thumbnailUrl": "https://i.ytimg.com/vi//hq720_2.jpg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jIw-xrjPPh8/hq720_2.jpg",
         "duration": 185,
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "23",
-        "title": " ",
-        "description": "",
+        "title": " Teach Your Puppy",
+        "description": "Teach Your Puppy to Lay Down Fast!",
         "videoUrl": "https://raw.githubusercontent.com/visiosoft/dogtraining/main/23.mp4",
-        "thumbnailUrl": "https://i.ytimg.com/vi//hq720_2.jpg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Q0OZKXiUu84/hq720_2.jpg",
         "duration": 185,
         "categories": ["beginner"],
         "isPro": true,
         "isFeatured": true
-      },,
+      },
       {
         "id": "24",
         "title": " ",
